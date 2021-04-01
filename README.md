@@ -5,6 +5,8 @@ This sample has been deprecated/archived meaning it's read-only and it's no long
 
 For other related samples, check out the new [github.com/android/security-samples][2] repo. Thank you!
 
+Test
+
 [1]: https://help.github.com/en/articles/about-archiving-repositories
 [2]: https://github.com/android/security-samples
 
